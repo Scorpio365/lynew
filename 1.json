@@ -1,17 +1,17 @@
 {
-  "spider": "https://gitee.com/lynew/zby2/raw/master/gd5ic01b6d4922692401eac6018178d033d06",
+  "spider": "https://raw.githubusercontent.com/Scorpio365/lynew/main/gd5ic01b6d4922692401eac6018178d033d06",
   "lives": [
     {
       "name": "tvlive",
       "type": 0,
-      "url": "https://gitee.com/lynew/zby2/raw/master/tvlive.txt",
+      "url": "https://raw.githubusercontent.com/Scorpio365/lynew/main/tvlive.txt",
       "playerType": 2
     },
     {
       "name": "嗅探",
       "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0",
       "type": 0,
-      "url": "https://gitee.com/lynew/zby2/raw/master/xiutan.m3u"
+      "url": "https://raw.githubusercontent.com/Scorpio365/lynew/main/xiutan.m3u"
     }
   ],
   "sites": [
@@ -38,11 +38,11 @@
       "key": "wfys",
       "name": "网飞┃影视",
       "type": 3,
-      "api": "https://gitee.com/lynew/zby2/raw/master/drpy2.min.js",
+      "api": "https://raw.githubusercontent.com/Scorpio365/lynew/main/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/lynew/zby2/raw/master/网飞影视.js"
+      "ext": "https://raw.githubusercontent.com/Scorpio365/lynew/main/网飞影视.js"
     },
      {
       "key": "ssys",
@@ -52,8 +52,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/lynew/zby2/raw/master/三思影视.json",
-      "jar": "https://gitee.com/lynew/zby2/raw/master/frj2.jar;md5;0683D513E74B1B6BFF831AB7876B398A"
+      "ext": "https://raw.githubusercontent.com/Scorpio365/lynew/main/三思影视.json",
+      "jar": "https://raw.githubusercontent.com/Scorpio365/lynew/main/frj2.jar;md5;0683D513E74B1B6BFF831AB7876B398A"
     },
          {
       "key": "pgys",
@@ -63,7 +63,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "jar": "https://gitee.com/lynew/zby2/raw/master/frj6.jar;md5;0F3FA5C025CBC703F834253E852FFE69"
+      "jar": "https://raw.githubusercontent.com/Scorpio365/lynew/main/frj6.jar;md5;0F3FA5C025CBC703F834253E852FFE69"
     },
     {
       "key": "IK",
@@ -134,8 +134,8 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1,
-      "api": "https://gitee.com/lynew/zby2/raw/master/drpy.min.js",
-      "ext": "https://gitee.com/lynew/zby2/raw/master/爱奇艺.js"
+      "api": "https://raw.githubusercontent.com/Scorpio365/lynew/main/drpy.min.js",
+      "ext": "https://raw.githubusercontent.com/Scorpio365/lynew/main/爱奇艺.js"
     },
     {
       "key": "drpy_js_优酷",
@@ -145,8 +145,8 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1,
-      "api": "https://gitee.com/lynew/zby2/raw/master/drpy.min.js",
-      "ext": "https://gitee.com/lynew/zby2/raw/master/优酷.js"
+      "api": "https://raw.githubusercontent.com/Scorpio365/lynew/main/drpy.min.js",
+      "ext": "https://raw.githubusercontent.com/Scorpio365/lynew/main/优酷.js"
     },
     {
       "key": "drpy_js_腾讯",
@@ -156,8 +156,8 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1,
-      "api": "https://gitee.com/lynew/zby2/raw/master/drpy.min.js",
-      "ext": "https://gitee.com/lynew/zby2/raw/master/腾讯.js"
+      "api": "https://raw.githubusercontent.com/Scorpio365/lynew/main/drpy.min.js",
+      "ext": "https://raw.githubusercontent.com/Scorpio365/lynew/main/腾讯.js"
     },
     {
       "key": "drpy_js_芒果",
@@ -167,8 +167,8 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1,
-      "api": "https://gitee.com/lynew/zby2/raw/master/drpy.min.js",
-      "ext": "https://gitee.com/lynew/zby2/raw/master/芒果.js"
+      "api": "https://raw.githubusercontent.com/Scorpio365/lynew/main/drpy.min.js",
+      "ext": "https://raw.githubusercontent.com/Scorpio365/lynew/main/芒果.js"
     },
     {
       "key": "贱贱",
@@ -178,8 +178,8 @@
       "quickSearch": 1,
       "changeable": 1,
       "playerType": "1",
-      "api": "https://gitee.com/lynew/zby2/raw/master/drpy2.min.js",
-      "ext": "https://gitee.com/lynew/zby2/raw/master/jp.js"
+      "api": "https://raw.githubusercontent.com/Scorpio365/lynew/main/drpy2.min.js",
+      "ext": "https://raw.githubusercontent.com/Scorpio365/lynew/main/jp.js"
     },
    
     {
@@ -505,31 +505,31 @@
       "key": "cntv",
       "name": "央视[cat]",
       "type": 3,
-      "api": "https://gitee.com/lynew/zby2/raw/master/cntv_open.js"
+      "api": "https://raw.githubusercontent.com/Scorpio365/lynew/main/cntv_open.js"
     },
     {
       "key": "bookan_book_open",
       "name": "Bookan[cat]",
       "type": 3,
-      "api": "https://gitee.com/lynew/zby2/raw/master/MyCatBookan.js"
+      "api": "https://raw.githubusercontent.com/Scorpio365/lynew/main/MyCatBookan.js"
     },
     {
       "key": "boosj_open",
       "name": "童趣[cat]",
       "type": 3,
-      "api": "https://gitee.com/lynew/zby2/raw/master/boosj_open.js"
+      "api": "https://raw.githubusercontent.com/Scorpio365/lynew/main/boosj_open.js"
     },
     {
       "key": "tuxiaobei_open",
       "name": "兔小贝[cat]",
       "type": 3,
-      "api": "https://gitee.com/lynew/zby2/raw/master/tuxiaobei_open.js"
+      "api": "https://raw.githubusercontent.com/Scorpio365/lynew/main/tuxiaobei_open.js"
     },
     {
       "key": "ubestkid_open",
       "name": "贝乐虎[cat]",
       "type": 3,
-      "api": "https://gitee.com/lynew/zby2/raw/master/ubestkid_open.js"
+      "api": "https://raw.githubusercontent.com/Scorpio365/lynew/main/ubestkid_open.js"
     },
     {
       "key": "Bili",
