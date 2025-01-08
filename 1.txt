@@ -65,14 +65,37 @@ CCTV5+移动超高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226
 /3221227508/index.m3u8?
 贵州｜贵州2,https://9bwaz8y2.gzstv.com/live/CH02_lo.m3u8?txSecret=097b18a91fe5689d0ab238edc89ede6c&txTime=669F1790
 
-北京卫视,http://183.66.15.138:4070/udp/235.254.198.66:1540
-北京卫视,http://jxcbn.ws-cdn.gitv.tv/hls/BEIJHD/index.m3u8?gMac=unknown&livodToken=a03d2d8d7e5995cc88771669d9afacef2c4fd34206978b97b7f462f360cbde7c_1720504784_604800&fromCDN=ws
-北京卫视,http://124.234.172.107:9901/tsfile/live/0122_1.m3u8
-北京卫视,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225796/index.m3u8?
-北京卫视,http://221.213.43.82:8888/newlive/live/hls/19/live.m3u8
-北京卫视,http://111.59.63.32:9901/tsfile/live/1030_1.m3u8
-北京卫视,http://218.241.192.50:8808/udp/239.3.1.241:8000
-北京卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225796/index.m3u8?
+北京卫视HD,http://171.120.56.175:8084/rtp/226.0.2.177:9328
+北京卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/bjws-hd/2500.m3u8?innersid=2025
+北京卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/bjws-hd/1.m3u8?innersid=18360129623627541611
+北京卫视,http://[2409:8087:5e08:24::d]:6610/000000001000/1/1000000005000265027/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265027&livemode=1&stbId=007
+北京卫视,http://39.134.136.161:6610/000000001000/1000000001000017156/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000017156
+北京卫视,http://171.38.65.171:8181/tsfile/live/0122_1.m3u8
+北京卫视 (576p),http://183.207.248.71/gitv/live1/G_BEIJING/G_BEIJING
+北京卫视 (1080p),http://183.207.248.71/cntv/live1/HD-2500k-1080P-beijingstv/HD-2500k-1080P-beijingstv
+北京卫视 (1080p),http://183.207.249.8/PLTV/3/224/3221225574/index.m3u8
+北京卫视 (1080p),http://223.110.245.139/PLTV/4/224/3221227390/index.m3u8
+北京卫视 (1080p),http://223.110.245.163/ott.js.chinamobile.com/PLTV/3/224/3221227436/index.m3u8
+北京卫视 (1080p),http://223.110.245.173/PLTV/4/224/3221227390/index.m3u8
+北京卫视 (1080p),http://ott.js.chinamobile.com/PLTV/3/224/3221225574/index.m3u8
+北京卫视 (1080p) [Not 24/7],http://112.25.48.68/live/program/live/bjwshd/4000000/mnf.m3u8
+北京卫视 (1080p) [Not 24/7],http://183.207.248.71/cntv/live1/beijingstv/beijingstv
+北京卫视,http://bf11e1.tv.netsite.cc/proxy/1773564112/1773564112.m3u8
+北京卫视,http://42.48.50.138:9002/tsfile/live/0122_1.m3u8
+北京卫视,http://113.194.51.14:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/beijingHD/__op/default/__f/index.m3u8
+北京卫视,http://1.196.219.0:808/hls/64/index.m3u8
+北京卫视,http://39.134.136.161:6610/000000001000/5000000010000011502/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000010000011502
+北京卫视,http://39.134.136.161:6610/000000001000/1000000005000265027/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000005000265027
+北京卫视,http://39.134.136.161:6610/000000001000/5000000004000031556/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000004000031556
+北京卫视,http://39.134.136.161:6610/000000001000/1000000001000021288/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000021288
+北京卫视,http://39.134.136.161:6610/000000001000/6000000001000020451/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=6000000001000020451
+北京卫视,http://39.134.136.161:6610/000000001000/8258663409451267714/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=8258663409451267714
+北京卫视,http://39.134.136.161:6610/000000001000/8186688740528366039/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=8186688740528366039
+北京卫视,http://39.134.136.161:6610/000000001000/8848252191536870228/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=8848252191536870228
+北京卫视,http://39.134.136.161:6610/000000001000/6356396163691637298/index.m3u8?livemode=1&stbId=test&channel-id=hnbblive&Contentid=6356396163691637298
+北京卫视,http://39.134.136.161:6610/000000001000/8656422569829547833/index.m3u8?livemode=1&stbId=test&channel-id=hnbblive&Contentid=8656422569829547833
+北京卫视,http://[2409:8087:74d6:22::7]:6410/270000001128/9900000516/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000410
+北京卫视,http://42.48.50.232:9002/tsfile/live/0122_1.m3u8
 
 
 央视频道,#genre#
